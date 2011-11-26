@@ -1,0 +1,13 @@
+Clase para enviar archivos a la nube de Rackspace (Rackspace Cloud Files)
+
+La clase regresara la URL publica al archivo si es que todo fue exitoso.
+
+Aun le falta muchisimo que pulir, pero es funcional.
+
+Requisitos:
+
+  · Servidor con CURL instalado.
+
+  · PHP 5.2+
+
+
